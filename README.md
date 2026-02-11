@@ -22,15 +22,15 @@ I build modern web applications with a focus on performance, type-safety, and th
 
 ### 📊 Stats & Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iliawm&show_icons=true&theme=distinguished&hide_border=true" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliawm&layout=compact&theme=distinguished&hide_border=true" height="150px" />
+&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iliawm&show_icons=true&theme=tokyonight&hide_border=true" alt="iliawm's github stats" height="170px" />
+&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliawm&layout=compact&theme=tokyonight&hide_border=true" alt="iliawm's top langs" height="170px" />
 </p>
 
 ---
 
 ### 📧 Get in Touch
 - **Email:** iliabayat83@gmail.com
-- **LinkedIn:** [Your Profile Link] ---
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,postgres,prisma,mongodb" />
 </p>
