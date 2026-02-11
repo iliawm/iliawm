@@ -25,7 +25,3 @@ I build modern web applications with a focus on performance, type-safety, and th
 - **Email:** [iliabayat83@gmail.com](mailto:iliabayat83@gmail.com)
 - **Projects:** Check out my pinned repositories below! ↓
 
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=00d4ff&height=30&section=footer" width="100%" />
-</p>
