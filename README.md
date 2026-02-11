@@ -22,7 +22,7 @@ I build modern web applications with a focus on performance, type-safety, and th
 
 ### 📊 Stats & Activity
 <p align="left">
-&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iliawm&show_icons=true&theme=tokyonight&hide_border=true" alt="iliawm's github stats" height="170px" />
+&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ILIAWM&show_icons=true&theme=tokyonight&hide_border=true" alt="iliawm's github stats" height="170px" />
 &nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliawm&layout=compact&theme=tokyonight&hide_border=true" alt="iliawm's top langs" height="170px" />
 </p>
 
