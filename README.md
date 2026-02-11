@@ -8,7 +8,7 @@ I build modern web applications with a focus on performance, type-safety, and th
 ### 🚀 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,postgres,prisma,mongodb,nodejs,git,vercel,py,html,css" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,postgres,prisma,nodejs,git,vercel,py,html,css" />
   </a>
 </p>
 
