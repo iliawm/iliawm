@@ -6,31 +6,35 @@ I build modern web applications with a focus on performance, type-safety, and th
 ---
 
 ### 🚀 Tech Stack
-- **Frontend:** Next.js (14/15/16), React, TypeScript, Tailwind CSS.
-- **Backend:** Node.js, Prisma ORM, Next.js Server Actions.
-- **Databases:** PostgreSQL, MongoDB.
-- **Tools:** Git, Docker, Vercel, Postman.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,postgres,prisma,mongodb,nodejs,git,vercel,py,html,css" />
+  </a>
+</p>
 
 ---
 
 ### 🛠️ Current Focus
 - ⚡ **Next.js 16:** Experimenting with Canary releases and new rendering patterns.
 - 🏗️ **Architecture:** Building scalable Full-stack applications with clean code.
-- 🤖 **AI Integration:** Implementing ML foundations into web workflows using Python.
+- 🔐 **Security:** Implementing advanced Auth and Middleware patterns.
 
 ---
 
-### 📊 Stats & Activity
+### 📊 GitHub Profile Summary
 <p align="left">
-&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ILIAWM&show_icons=true&theme=tokyonight&hide_border=true" alt="iliawm's github stats" height="170px" />
-&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliawm&layout=compact&theme=tokyonight&hide_border=true" alt="iliawm's top langs" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iliawm&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" alt="Ilia's Stats" height="150px" />
 </p>
 
+> **Note:** If the stats card is missing, it's due to GitHub's temporary API limits. My core skills are listed above!
+
 ---
 
-### 📧 Get in Touch
-- **Email:** iliabayat83@gmail.com
+### 📧 Contact & Links
+- **Email:** [iliabayat83@gmail.com](mailto:iliabayat83@gmail.com)
+- **Projects:** Check out my pinned repositories below! ↓
 
+---
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,postgres,prisma,mongodb" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=00d4ff&height=30&section=footer" width="100%" />
 </p>
