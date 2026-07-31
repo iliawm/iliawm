@@ -102,9 +102,9 @@ const ilia = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iliawm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iliawm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliawm&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iliawm&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -125,28 +125,6 @@ const ilia = {
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iliawm&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/iliawm/iliawm/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🎵 Currently Listening
-
-> **Requires GitHub Action**
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true"/>
 
 </div>
 
