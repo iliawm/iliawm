@@ -202,10 +202,6 @@ const ilia = {
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://www.frontendmentor.io/profile/iliawm">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
 <a href="https://karlancer.com/profile/640209">
 <img height="48" src="https://img.shields.io/badge/Karlancer-7F5AF0?style=for-the-badge"/>
 </a>
