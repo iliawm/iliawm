@@ -32,7 +32,7 @@ const ilia = {
 
     role: "Full Stack Engineer",
 
-    location: "Germany",
+    location: "iran",
 
     frontend: [
         "Next.js",
